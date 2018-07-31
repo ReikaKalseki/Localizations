@@ -1,0 +1,65 @@
+﻿machine.wire=Провод
+machine.electrigenerator=Индукционный генератор
+machine.electrimotor=Индукционный двигатель
+machine.electriresistor=Резистор
+machine.electrirelay=Реле
+machine.battery=Аккумулятор
+machine.rfcable=Кабель для передачи RF
+machine.wiremeter=Электросчётчик
+machine.rfbattery=RF-аккумулятор
+machine.transformer=Трансформатор
+machine.eusplit=EU-разветвитель
+
+battery.redstone=Красный аккумулятор
+battery.glowstone=Блестящий аккумулятор
+battery.lapis=Лазуритовый аккумулятор
+battery.star=Сияющий аккумулятор
+battery.diamond=Графеновый аккумулятор
+battery.ender=Проционный аккумулятор
+
+energycrystal.redstone=Красный энергетический кристалл
+energycrystal.glowstone=Блестящий энергетический кристалл
+energycrystal.lapis=Лазуритовый энергетический кристалл
+energycrystal.star=Сияющий энергетический кристалл
+energycrystal.diamond=Графеновый энергетический кристалл
+energycrystal.ender=Проционный энергетический кристалл
+energycrystal.rf=RF-энергетический кристалл
+
+electricrafting.bluedust=Лазуритовая пыль
+electricrafting.diamonddust=Алмазная пыль
+electricrafting.quartzdust=Кварцевая пыль
+electricrafting.crystaldust=Пыль энергетического кристалла
+
+ore.copper=Медная руда
+ore.tin=Оловянная руда
+ore.silver=Серебряная руда
+ore.platinum=Платиновая руда
+ore.nickel=Никелевая руда
+ore.aluminum=Алюминиевая руда
+
+ingot.copper=Медный слиток
+ingot.tin=Оловянный слиток
+ingot.silver=Серебряный слиток
+ingot.platinum=Платиновый слиток
+ingot.nickel=Никелевый слиток
+ingot.aluminum=Алюминиевый слиток
+
+wire.steel=Стальной провод
+wire.copper=Медный провод
+wire.tin=Оловянный провод
+wire.silver=Серебряный провод
+wire.gold=Золотой провод
+wire.aluminum=Алюминиевый провод
+wire.platinum=Платиновый провод
+wire.nickel=Никелевый провод
+wire.superconductor=Сверхпроводящий провод
+
+wire.insulated.steel=Изолированный стальной провод
+wire.insulated.copper=Изолированный медный провод
+wire.insulated.tin=Изолированный оловянный провод
+wire.insulated.silver=Изолированный серебряный провод
+wire.insulated.gold=Изолированный золотой провод
+wire.insulated.aluminum=Изолированный алюминиевый провод
+wire.insulated.platinum=Изолированный платиновый провод
+wire.insulated.nickel=Изолированный никелевый провод
+wire.insulated.superconductor=Изолированный сверхпроводящий провод

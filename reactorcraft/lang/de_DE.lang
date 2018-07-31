@@ -1,0 +1,55 @@
+machine.fuel=Haupttreibstoff
+machine.control=Kontrolleinheit
+machine.coolant=Wasser Zelle
+machine.cpu=Zentrale Kontrolle
+machine.turbine=Turbine
+machine.condenser=Kondensator
+machine.steamline=Dampf Leitung
+machine.heavypump=Schwere Wasser Schleuder
+machine.centrifuge=Isotop Zentrifuge
+machine.processor=Uran Verarbeitung
+machine.wastecontainer=Verbraucter Treibstoffcontainer
+machine.boiler=Dampf Boiler
+machine.grate=Dampf Gitter
+machine.pump=Pumpe
+machine.synthesizer=Ammonium Verbinder
+
+ore.pitchblende=Uranpecherz
+ore.fluorite=Calciumfluorid
+ore.cadmium=Cadmiumerz
+ore.indium=Indiumerz
+ore.silver=Silvererz
+ore.calcite=Calcite
+ore.ammonium=Ammoniumchlorid
+
+block.concrete=Beton
+block.slag=Corium
+block.fluorite=Fluorit Block
+
+item.waste=Nuklearer Abfall
+item.fuel=Uran Treibtsoff Teil
+item.depleted=Verbrauchtes Uran
+item.bucket=Schweres Wasser Eimer
+item.goggles=Strahlenschutz Brille
+item.fluorite=Fluorit Krystall
+item.uranium=Roher Uran Barren
+item.cadmium=Cadmium Barren
+item.indium=Indium Barren
+item.silver=Silver Barren
+
+raw.hf=Fluorwasserstoff
+raw.ammonium=Ammoniumnitrat
+raw.calcite=Calcit-Kristalll
+raw.lime=Branntkalk
+raw.fueldust=Angereichertes Uran Pulver
+raw.depdust=Verbrauchtes Uran Pulver
+
+can.empty=Leerer Kanister
+can.uf6=Uran Hexafluorid Kanister
+can.hf=Flusssäure Kanister
+can.nh3=Ammonia Kanister
+
+crafting.canister=Treibstoff Kanister
+crafting.rod=Aufnahme Stange
+crafting.tank=Obsidian Tank
+crafting.alloy=Cd-In-Ag Legierungs Barren

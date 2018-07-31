@@ -1,0 +1,58 @@
+machine.wire=Kabel
+machine.electrigenerator=Induktions Generator
+machine.electrimotor=Induktions Motor
+machine.electriresistor=Elektrischer Widerstand 
+machine.electrirelay=Redstone Switcher
+machine.battery=Batterie
+
+battery.redstone=Redstone Batterie
+battery.glowstone=Schimmernde Batterie
+battery.lapis=Azulantische Batterie
+battery.star=Groﬂe Batterie
+battery.diamond=Graphen Batterie
+battery.ender=Procyonische Batterie
+
+crystal.redstone=Redstone Energie Kristall
+crystal.glowstone=Schimmernder Energie Kristall
+crystal.lapis=Azulantischer Energie Kristall
+crystal.star=Groﬂer Energie Kristall
+crystal.diamond=Graphen Energie Kristall
+crystal.ender=Procyonischer Energie Kristall
+
+electricrafting.bluedust=Lapis StaubEnergie Kristall
+electricrafting.diamonddust=Diamand Staub
+electricrafting.quartzdust=Quartz Staub
+
+ore.copper=Kupfer Erz
+ore.tin=Zinn Erz
+ore.silver=Silber Erz
+ore.platinum=Platin Erz
+ore.nickel=Nickel Erz
+ore.aluminum=Aluminum Erz
+
+ingot.copper=Kupfer Barren
+ingot.tin=Tin Barren
+ingot.silver=Silber Barren
+ingot.platinum=Platin Barren
+ingot.nickel=Nickel Barren
+ingot.aluminum=Aluminum Barren
+
+wire.steel=Stahl Kabel
+wire.copper=Kupfer Kabel
+wire.tin=Zinn Kabel
+wire.silver=Silber Kabel
+wire.gold=Gold Kabel
+wire.aluminum=Aluminum Kabel
+wire.platinum=Platin Kabel
+wire.nickel=Nickel Kabel
+wire.superconductor=Supraleiter Kabel
+
+wire.insulated.steel=Isoliertes Stahl Kabel
+wire.insulated.copper=Isoliertes Kupfer Kabel
+wire.insulated.tin=Isoliertes Zinn Kabel
+wire.insulated.silver=Isoliertes Silber Kabel
+wire.insulated.gold=Isoliertes Gold Kabel
+wire.insulated.aluminum=Isoliertes Aluminum Kabel
+wire.insulated.platinum=Isoliertes Platin Kabel
+wire.insulated.nickel=Isoliertes Nickel Kabel
+wire.insulated.superconductor=Isoliertes Supraleiter Kabel
